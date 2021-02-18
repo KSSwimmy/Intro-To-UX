@@ -1,5 +1,5 @@
 # Introduction to UX
-***
+
 
 
 UX 
@@ -18,7 +18,7 @@ UX
 - Understand a bit about user behavior 
 - Apply common sense
 
-
+***
 ### The UX Process 
 
 **Fail Fast**
