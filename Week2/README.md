@@ -6,7 +6,7 @@ What is design?
 : A design is a plan for arranging elements to accomplish a purpose.
 
 **Design is:**
-- **A Plan**
+- A Plan
 
 - **Arranging Elements** -  Arranging elements and those elements will depend on the type of product that it is. 
 
@@ -49,9 +49,9 @@ What is design?
 
 The best prototype is the one that in the simplest and most efficient way, makes the possibilities of a design idea visible and measurable 
 
-**The main reason why we progress through different levels of prototyping is:** 
+**The main reason why we progress through different levels of prototyping are:** 
 
-Premature commitment 
+**Premature commitment** 
 - Investing resources (time, money) in a dead end
 - Problems
 - Waste money and effort 
@@ -91,24 +91,24 @@ How to Sketch
    - What would it look like for the problem to be solved? 
    - How would a system help solve the problem? 
 
-Generation 
+**Generation** 
 - Sketch! 
 - Quantity over quality 
 - Build, don't critique 
 - Apply lateral thing 
 
 
-Sketcher's Block: Ideation 
+**Sketcher's Block: Ideation**
 - You will run out of ideas. Don't stop!
 - Many techniques exist for "lateral thinking" 
     - Brainstorming 
-    - Matrix techniques eg. Morphological analyis 
+    - Matrix techniques eg. Morphological analysis 
 
-Ideation technique: The worst idea 
+**Ideation technique: The worst idea** 
 - Use when stuck - Think of the worst idea(s) you can for solving the problem
 
 
-
+green 
 
 
 ---
