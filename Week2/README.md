@@ -108,8 +108,6 @@ How to Sketch
 - Use when stuck - Think of the worst idea(s) you can for solving the problem
 
 
-green 
-
 
 ---
 
