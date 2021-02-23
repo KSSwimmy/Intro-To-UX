@@ -1,66 +1,61 @@
-# Introduction to UX
+# Introduction to User Experience Principles and Processes
+
+### Week 1
+
+**_What is UX? What are UX Research and Design?_**
+
+**Learning Objectives**
+- Define the goals of User Experience (UX) research and design
+- Recognize the components of UX
+- Describe the skills needed for UX research and design
+- Identify different methods of UX research
+Explain how the design process is iterative
+
+### Week 2
+
+**_UX Design Overview_**
+
+**Learning Objectives**
+- Recognize the language of UX research and design
+- Describe various prototyping techniques and recognize the purpose and value of each
+- Demonstrate how UX designers use sketching and prototyping to develop design concepts
+- Practice incorporating a user-centered focus into the design process
+
+### Week 3 
+
+**_How do people perceive information?_**
+
+**Learning Objectives**
+- Identify key features of human physiology and behavior that have an impact on the design of interactive systems
+- Describe the different types of human memory and how this has an impact on design challenges
+- Describe how UX researchers discover and assess user needs
+
+### Week 4
+
+**_How do people act in the world?_**
 
 
+**Learning Objectives**
+- Identify terms that describe the user experience
+- List the stages of user action when interacting within an environment
+- Explain how different features of an environment can impact user actions
+- Explain how users’ conceptual models can influence how they perform in an environment
 
-UX 
-: The experience people have with a product. 
+### Week 5
 
-**What is User Experience?**
-- Using the product
-- Choosing the product
-- Acquiring the product
-- Learning the product
-- Fixing the product 
+**_Design Heuristics_**
 
-**How to make UX Easy?**
-- Follow an interactive prototyping process
-- Apply user centered research and design methods 
-- Understand a bit about user behavior 
-- Apply common sense
+**Learning Objectives**
+- Explain how heuristics can be used in the design of an interface, platform, or system
+- List Neilsen’s 10 heuristics for user interface design
+- Articulate the value of minimalist design
+- Critique and design interactive systems based on human capabilities and behavior
 
-***
-### The UX Process 
+### Week 6
 
-**Fail Fast**
-- You won't get it right the first time. 
-- Get it wrong and quickly as possible 
-- Learn from mistakes 
-- Get it less wrong
-
-**_Interactive Design Consists of 3 Phases_**
-
-**ASSESS -**  assessment phase, initially, what we're doing is we're assessing what users are currently doing and what their needs are so that we can understand the design space and the problems that they're facing so that we can design products that will address those needs.
-
-**DESIGN -** In the design phase, we take what we've learned in the initial assessment and come up with ideas, lots of ideas for how we might deliver a product that solves the problem that we've identified in the assessment. 
-
-**BUILD -** In the build phase, we take those design ideas or a subset of those design ideas and we build them into prototypes or some representation that we can use to communicate a particular idea, so that we can then use it to get feedback on whether that idea is headed in the right direction or in the wrong direction.
+**_Heuristic Evaluation and Course Wrap Up_**
 
 
-**Key Methods: UX Research**
-- Interviews
-- Observation
-- Surveys
-- User Testing
-- Inspection
-
-**Key Methods: UX Design**
-- Personas, scenarios, user stories
-- Sketching and Ideation 
-- Mapping and Navigation Design
-- Comparative Research 
-- Lo, Mid, and Hi - Fidelity Prototyping
-
-**Understand how people work**
-- What can people perceive? 
-    - How do people extract info from visual stimuil? 
-- How do people do things? 
-    - How do people decide how to act in the world and how do they process information about the results of their actions? 
-- How does emotion pay a role? 
-    - How when and why does emotion effect decision making and what role does emotion play in user experience? 
-
-
-
-
- ### Components of UX
-
- ![Assessing UX](/AssessingUX.jpg "Assessing UX")
+- Prepare and conduct a micro-usability test
+- Identify and rank usability issues encountered when conducting a usability test
+- Apply heuristics to the usability issues that are encountered when conducting a usability test

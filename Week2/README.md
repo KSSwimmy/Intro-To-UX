@@ -116,6 +116,6 @@ How to Sketch
 # UX Design Overview Part II
 
 
-Working on assignment day 3
+Completed assignment
 
 
