@@ -31,7 +31,12 @@ What's being show is a heat map showing how people read pages on the web.
 
 ### Principles 
 
-- Make important info & actions visible 
-- Leverage "the read" 
-- When evaluation, ask yourself "did they see it?" 
+- **Make important info & actions visible** 
+    - information that is not immediately visible and perceivable by users, is less likely to be noticed and if extra effort is required to find it, the number of users that will find it and take action on it is going to be reduced significantly.
+
+- **Leverage "the read"** 
+ ![leverage](Week3Images/leverageTheRead.png "")
+
+- **When evaluation, ask yourself "did they see it?"** 
+ ![didtheyseeit](Week3Images/didTheySeeit.png "")
 
