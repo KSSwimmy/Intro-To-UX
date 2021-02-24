@@ -30,7 +30,18 @@ So, using these seven stages of action, we can take users interactions with a sy
 ## Gulfs of Execution and Evaluation 
 
 ![execution](Week4Images/execution.png "Execution")
+
+Execution side
+
 ![evaluation](Week4Images/evaluation.png "Execution")
+
+Evaluation side
+
+![tgoe](Week4Images/tgoe.png "The Gulf of Execution")
+the gulf of execution as being the challenge that a user faces when trying to map their goals onto the possibilities that are in the world, and selecting appropriate actions that will help them accomplish their goals.   
+
+ ![tgoev](Week4Images/tgoev.png "The Gulf of Evaluation")
+Gulf of evaluation, and that is the gulf that uses face when trying to interpret the state of the world to determine whether their actions were successful and whether they moved them closer to meeting their goals.
 
 
 Bridging the Gulfs
@@ -54,9 +65,55 @@ So, we need to make sure that the likely actions, the things that people are lik
 
 We also need to make sure that the results of their actions are visible and that they make sense.
 
-![tgoe](Week4Images/tgoe.png "The Gulf of Execution")
-the gulf of execution as being the challenge that a user faces when trying to map their goals onto the possibilities that are in the world, and selecting appropriate actions that will help them accomplish their goals.   
 
- ![tgoev](Week4Images/tgoev.png "The Gulf of Evaluation")
-Gulf of evaluation, and that is the gulf that uses face when trying to interpret the state of the world to determine whether their actions were successful and whether they moved them closer to meeting their goals.
+---
+## Design Principles 
 
+**Discoverability**
+- Users need to be able to discover 
+    - what a system can 
+    - How to operate it
+
+- This is how we bridge the Gulfs of Execution and Evaluation 
+
+**Execution:** users figure out what actions are possible 
+**Evaluation:** users can discover whether action were successful 
+
+**Supporting Discoverablility** 
+- Affordances 
+- Signifiers
+- Feedback 
+- Constraints 
+- Conceptual Models
+
+**Affordances** 
+- An "affordance" is a feature of an object or environment that indicates the possibility of action (suggestions of action)
+
+**Signifiiers** 
+- An indication of what action will occur and, in many cases, where action can occur
+- A "sign"
+
+**Affordances & Signifiers: Great Together!**
+- Affordances, if done well, can communicate intuitively 
+- Signifiers are often necessary when many actions are possible 
+- Conventions and standards can reduce need for affordance
+
+**Feedback** 
+- Users need to know that the system received their input 
+- Users need to know what the system did with their input 
+
+**Constraints** 
+- Unavailable actions should be disabled 
+- Limiting the total number of option will make selection easier 
+
+**Conceptual Models** 
+- Conceptual models support simulation of future actions 
+- Appropriate use of affordances, signifiers, feedback, and constraints leads to formation of accurate conceptual models 
+
+**Consistency** 
+- We need to think about consistency and how to use consistency across different aspects of the system so that what users learn in one place, they can apply elsewhere.
+
+**Metaphor** 
+- And we also can think about places to apply metaphor, where we can take users knowledge of other systems and apply them to learning the system that we've designed for them.
+
+ ![metaphor](Week4Images/metaphor.png "metaphor")
