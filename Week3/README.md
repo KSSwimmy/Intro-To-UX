@@ -1,4 +1,4 @@
-#WEEK 3
+#WEEK 3 How do people perceive information?
 
 ## Visual Perception, Part I
 
@@ -104,5 +104,42 @@ In this lecture, we'll be focusing mostly on short-term memory and how that work
 
 ---
 ## Memory, Part II
+
+**Long term memory happens in tow primary ways.** 
+
+- **Association**
+    - One is through association where some piece of information that enters our consciousness is associated with things that we already know that makes it easy for us to kind of fit in with the things that we know.
+
+- **Repetition**
+    - And the other way is through repetition so when were presented with something we don't really have any associations for, really the only way that will be committed to our long term memory is by effortfully repeating it to ourselves until we can commit it to memory.
+
+**Memorization**
+- "Elaborative rehearsal" 
+    - Expending effort to commit something to long-term memory 
+
+**Likelihood of Remembering** 
+- Strength of association
+    - So one is the strength of association, how closely associated is it with information that the user already has and has already remembered? 
+- Recency 
+    - But also, the recency, how recently were they exposed to the information, and how frequently have they had to recall that information.
+- Frequency 
+    - Another technique that we can use to help users make sense of complicated system, is to take advantage of consistency across different similar products and different parts of the same product.
+
+
+
+**Principles** 
+- **Learning will work better if learner can fit into a schema**
+    - Use metaphors
+    ![metaphor](Week3Images/metaphor.png "metaphor")
+    - Leverage standards and consistency 
+    ![consistency](Week3Images/consistency.png "consistency")
+        - And what this means is that a user who has learned to use one of these systems in picking up the other one will immediately know where to find certain types of operations, like cut, copy, and paste, or save or rename, or those types of things.
+    - Avoid asking users to memorize stuff 
+        - By asking users to memorize stuff, it makes things more challenging for them, and can cause them to use workarounds, which actually might subvert some of the things that you're trying to accomplish.
+- Prefer recognition over recall whenever possible.
+    - By preferring recognition over recall, by presenting options to users that they will recognize rather than asking them to remember things from their own memory, we can also help people accomplish tasks and design systems that will work better for them.
+
+
+
 
 
