@@ -71,4 +71,38 @@ When we see things that are grouped into a **common area** that share a common b
 - Use Gestalt principles to associate like items 
 - Use Gestalt principles to organize for skippability 
 
+---
+
+## Memory, Part I 
+
+
+![mem1](Week3Images/mem1.png "mem1")
+![mem2](Week3Images/mem2.png "mem2")
+![mem3](Week3Images/mem3.png "mem3")
+
+In this lecture, we'll be focusing mostly on short-term memory and how that works and in future lectures, we'll focus on long-term memory as well.
+
+**Short-term Memory** 
+- Has limited capacity 
+    - The "magic number" 7 + || - 2 items (Miller's Law, 1956)
+        - Meaning that most people can hold about seven items, in this case, fruit or animals in their short-term memory and depending on individual differences that number can be a little bit higher, a little bit lower.
+
+    - Maybe more like 4 + || - 1 (Cowan, 2001) 
+
+- Information that is not retained is lost 
+    - "Retained" means "committed" to long term memory"
+    - Also know as "learning"
+
+**Principles**
+- Keep lists of options short
+    - keep lists of options short especially when users may not know exactly what they're looking for.
+- Give users tools for reducing options
+    - Where we do need to present lots of options to users, we need to give them tools for reducing the number of options especially when comparing among those options.
+- Don't expect users to remember stuff 
+    - Finally, we can't expect users to remember stuff that they've seen on previous screens or in other interactions with systems that we're designing when they're engaging in subsequent interactions.
+
+
+---
+## Memory, Part II
+
 
