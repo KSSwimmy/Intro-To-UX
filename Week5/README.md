@@ -245,7 +245,7 @@ By making use of the visual principles in this course and by reducing visual clu
 
 Help users recognize, diagnose, and recover from errors
 
-- Error messages should be expressed in plain language (no coder language), precisely indicate the problem, and constructively sugguest a solution
+- Error messages should be expressed in plain language (no coder language), precisely indicate the problem, and constructively suggest a solution
 
 Why? 
 #9 is a special case of #1,#2,#3, and #5
@@ -254,7 +254,7 @@ Why?
 3. #3 Allow users to undo and escape from mistakes
 4. #5 Prevent and detect errors 
 
-Make sure any errors that are displayed makes sence to the user. 
+Make sure any errors that are displayed makes sense to the user. 
 
 **Good Example**
 ![ErrorEx](week5Images/goodex.png "Error Prevention Example 2 ")
@@ -266,7 +266,24 @@ Make sure any errors that are displayed makes sence to the user.
 ![ErrorEx](week5Images/notclearex.png "Error Prevention Example 2 ")
 
 ---
+### #10 - Help and Documentation
 
+**#10 - Help and Documentation**
+
+Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out. and not be too large. 
+
+Why?
+Your UI might not be as self-explanatory as you thought 
+- Structure to support Gulf of Execution:
+    - Easy to search 
+    - Contain list of action 
+    - Focused on user's tasks
+
+Best if help is not needed
+If required, make sure help is 
+- Searchable 
+- Task-focused
+- Concrete steps to help them accomplish the things they need to get done. 
 
 
 
