@@ -241,5 +241,36 @@ By making use of the visual principles in this course and by reducing visual clu
 
 ### #9 - Error Recovery
 
+**#9 - Error Recovery**
+
+Help users recognize, diagnose, and recover from errors
+
+- Error messages should be expressed in plain language (no coder language), precisely indicate the problem, and constructively sugguest a solution
+
+Why? 
+#9 is a special case of #1,#2,#3, and #5
+1. #1 Give Feedback 
+2. #2 Speak the user' language
+3. #3 Allow users to undo and escape from mistakes
+4. #5 Prevent and detect errors 
+
+Make sure any errors that are displayed makes sence to the user. 
+
+**Good Example**
+![ErrorEx](week5Images/goodex.png "Error Prevention Example 2 ")
+
+**Not clear to users #1**
+![ErrorEx](week5Images/notsoclear.png "Error Prevention Example 2 ")
+
+**Not clear to users #2**
+![ErrorEx](week5Images/notclearex.png "Error Prevention Example 2 ")
+
+---
+
+
+
+
+
+
 
 
