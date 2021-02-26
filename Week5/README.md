@@ -114,11 +114,33 @@ Why?
 - Support the 7 stages of action by allowing reformulated goals 
 - Users employ trial and error to learn a new system 
 
-![emexits](week5Images/emexits.png "emexits")
+![emexits](week5Images/emexits.png "Emergency Exits")
 
-![undoRedo](week5Images/undoRedo.png "undoRedo")
+![undoRedo](week5Images/undoRedo.png "Undo Redo")
 
 ### #4 - Consistency and Standards
 
 **#4 - Consistency and Standards**
+
+Users should not have to wonder whether different words. situations, or actions mean the same thing. Follow platform conventions. 
+
+Why? 
+
+- Leverage users' schemas 
+- Present a coherent conceptual model 
+
+Being consistent allows us to present a coherent conceptual model, which makes it easier for users to learn how to operate the system effectively. 
+
+Ex: 
+"Search" vs "Submit query"
+"Save" vs "Commit" 
+"Crate" vs "New"
+
+![consistencyex](week5Images/consistencyex.png "Consistency Example")
+
+It's also important when designing a series or a suite of products to maintain consistency across those products, and we looked at this in an earlier lecture; but, for example, looking at the different Google apps for word processing and for spreadsheets, we see that a very similar layout is used for the menu bar and the formatting options. 
+
+By deciding not to follow platform conventions, these website designers have created a system that's harder to use and harder to learn for somebody just coming to the system for the first time. 
+
+
 
