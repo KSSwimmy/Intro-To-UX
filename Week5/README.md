@@ -199,3 +199,22 @@ So to sum up, we want to use recognition, not recall wherever possible.
 Play video starting at :5:10 and follow transcript5:10
 And if recall is required ask yourself, is it realistic to expect users to remember what you're asking them to remember? And are cues provided if recall fails? 
 
+---
+
+### #7 Flexibility and Efficiency of Use
+
+**#7 - Flexibility and Efficiency of Use**
+
+Accelerators - unseen by the novice user - may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
+
+Why? 
+
+- Recall is bad for new/infrequent users, but can be fast for experts 
+
+- Different users have different goals, allow them to customize 
+    - But don't force them to! 
+
+The need for hot keys!
+
+- Bookmarks and customization 
+
