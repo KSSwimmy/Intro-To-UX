@@ -172,3 +172,30 @@ So, the key here is, wherever possible, you should try to prevent errors before 
 
 **#6 Recognition Over Recall**
 
+Minimize the user's memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.
+
+Why?
+
+- **_A familiar stimulus triggers retrieval from long-term memory_** 
+    - **Recall forces users to**
+        - recrate chain of associations themseles, or 
+        - forcefully learn through elaborative rehearsal
+
+- **Recall will fail unless remembered actions are** 
+    - Frequent 
+    - Recent 
+    - Strongly associated
+
+![ErrorEx](week5Images/recratherrecall.png "Error Prevention Example 2 ")
+
+ The image above is an example of a direct manipulation interface, which is the style of interface that most graphical user interfaces use. A direct manipulation interface provides all of the objects that we might want to manipulate and all of the operations we might want to perform as visible options on the screen so that we can always recognize what it is that we need to do rather than having to recall it. And most interfaces work this way, and you want to make sure that your interfaces do, as well.
+    
+**Place Recall comes up**
+- The command line
+- passwords
+- Speech UIs
+
+So to sum up, we want to use recognition, not recall wherever possible.
+Play video starting at :5:10 and follow transcript5:10
+And if recall is required ask yourself, is it realistic to expect users to remember what you're asking them to remember? And are cues provided if recall fails? 
+
