@@ -218,3 +218,28 @@ The need for hot keys!
 
 - Bookmarks and customization 
 
+---
+
+### #8 - Aesthetic and Minimalist Design 
+
+**#8 Aesthetic and Minimalist Design**
+
+Dialogues should not contain information which is irrelevant of rarely needed. Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility. 
+
+Why? 
+- Visual clutter makes it harder to find and focus on desired actions 
+- Good use of color, shape,  motion, and gestalt principles guide the eye 
+- The more there is to see, the less of it users will actually see
+
+**Use gestalt principles for non-linear reading** 
+
+it's important to use gestalt principles to support non linear reading of the page, so use aesthetic design to organize the page in a way that makes it easy for the user to skim through, skip around, ignore the information that they don't want and get right to the information that they do want. 
+
+By making use of the visual principles in this course and by reducing visual clutter as much as possible, we can make it easier for users to find the information and the opportunities for action that they need to find in order to have a better user experience.
+
+---
+
+### #9 - Error Recovery
+
+
+
