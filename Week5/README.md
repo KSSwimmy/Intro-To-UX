@@ -54,11 +54,11 @@
 
 - **Available actions**
     - Things that you can do and can not do
-![avalactions](Week5Images/avalactions.png "avalactions")
+![avalactions](Week5Images/avalactions.png "Available  actions")
 - **General Availability** 
     - busy indicator 
 
-  ![generalav](Week5Images/generalav.png "generalav")
+  ![generalav](Week5Images/generalav.png "General Availability")
 
   - How users react to delay
     - Less than 100 milliseconds: "instantaneous" 
@@ -94,10 +94,10 @@
 Use words and phrases that are familiar to the user not system-oriented language.
 
 **Metaphors**
-![metaphor](Week5Images/metaphor.png "metaphor")
+![metaphor](Week5Images/metaphor.png "Metaphor")
 So, for example, the user might infer that the shopping cart would also allow them to add multiple items, and to remove items, and even to abandon their cart without buying anything.
 
-![metaphor2](Week5Images/metaphor2.png "metaphor2")
+![metaphor2](Week5Images/metaphor2.png "Metaphor 2")
 The document metaphor might suggest to users that they not only can create and save files, they can also delete them, they can copy them, and they can send or share them with other people.
 
 It's important to make sure that systems that we design match the real-world expectations of users, so that they can take advantage of what they know from the real world and use it to effectively use the systems that we design.
@@ -142,5 +142,33 @@ It's also important when designing a series or a suite of products to maintain c
 
 By deciding not to follow platform conventions, these website designers have created a system that's harder to use and harder to learn for somebody just coming to the system for the first time. 
 
+---
 
+### #5: Error Prevention 
+
+**#5: Error Prevention**
+
+Even better than good error messages is careful design which prevents a problem from occurring in the place. Either eliminate error-prone conditions or check for them and present users with confirmation option before they commit to the action. 
+
+Why? 
+
+Mistakes are common 
+People don't see of read everything on the screen 
+People make mistakes when typing, clicking, etc. 
+
+![ErrorEx](week5Images/errorEx.png "Error Prevention Example")
+
+![ErrorEx](week5Images/errorHandling.png "Error Prevention Example 2 ")
+
+Preventing Errors before they happen if it's something risky. 
+
+![ErrorEx](week5Images/risky.png "Error Prevention Example 2 ")
+
+So, the key here is, wherever possible, you should try to prevent errors before they even happen, rather than just waiting for them to happen and helping users recover from it.
+
+---
+
+### #6 Recognition Over Recall 
+
+**#6 Recognition Over Recall**
 
