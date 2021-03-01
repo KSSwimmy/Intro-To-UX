@@ -30,5 +30,6 @@ An "inspection" method
 Above is a rating scale that's often used in heuristic evaluation that's just a four-point rating scale, ranging from one, which represents a cosmetic problem, no real usability impact, so something that's maybe just annoying, to four, which is a usability catastrophe, absolutely imperative to fix, because users will not be able to make successful use of the system if that problem isn't fixed.
 
 
-Im
+
+
 So, here's an example of the kind of problem that you can find with a heuristic evaluation and how you might communicate that to the designer of a system so they will know what needs to be fixed and how to fix it.

@@ -286,6 +286,11 @@ If required, make sure help is
 - Concrete steps to help them accomplish the things they need to get done. 
 
 
+Prioritizing 
+Highlight top 5-10 problems 
+Ranked in the decreasing order of severity 
+Use Heuristics to explain why they matter 
+
 
 
 
