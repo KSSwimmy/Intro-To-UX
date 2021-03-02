@@ -94,7 +94,7 @@
 Use words and phrases that are familiar to the user not system-oriented language.
 
 **Metaphors**
-<img src= "Week5Images/metaphor.png">
+<img src= "Week5Images/metaphor.png" width="800"/>
 So, for example, the user might infer that the shopping cart would also allow them to add multiple items, and to remove items, and even to abandon their cart without buying anything.
 
 ![metaphor2](Week5Images/metaphor2.png)
