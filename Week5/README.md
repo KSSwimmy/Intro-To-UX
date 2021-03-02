@@ -94,10 +94,10 @@
 Use words and phrases that are familiar to the user not system-oriented language.
 
 **Metaphors**
-![metaphor](Week5Images/metaphor.png "Metaphor")
+![metaphor](Week5Images/metaphor.png)
 So, for example, the user might infer that the shopping cart would also allow them to add multiple items, and to remove items, and even to abandon their cart without buying anything.
 
-![metaphor2](Week5Images/metaphor2.png "Metaphor 2")
+![metaphor2](Week5Images/metaphor2.png)
 The document metaphor might suggest to users that they not only can create and save files, they can also delete them, they can copy them, and they can send or share them with other people.
 
 It's important to make sure that systems that we design match the real-world expectations of users, so that they can take advantage of what they know from the real world and use it to effectively use the systems that we design.
