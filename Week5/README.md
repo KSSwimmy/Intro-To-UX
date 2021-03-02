@@ -36,7 +36,7 @@
     - (though you get better with practice) 
 - Well-supported by theories of perception and cognition
 
- ![10Heuristics](Week5Images/10Heuristics.png "10Heuristics")
+ ![](Week5Images/10Heuristics.png)
 
 ---
 
@@ -54,11 +54,11 @@
 
 - **Available actions**
     - Things that you can do and can not do
-![avalactions](Week5Images/avalactions.png "Available  actions")
+![](Week5Images/avalactions.png)
 - **General Availability** 
     - busy indicator 
 
-  ![generalav](Week5Images/generalav.png "General Availability")
+  ![](Week5Images/generalav.png)
 
   - How users react to delay
     - Less than 100 milliseconds: "instantaneous" 
@@ -98,7 +98,7 @@ Use words and phrases that are familiar to the user not system-oriented language
 
 So, for example, the user might infer that the shopping cart would also allow them to add multiple items, and to remove items, and even to abandon their cart without buying anything.
 
-![](Week5Images/metaphor2.png)
+![](week5Images/metaphor2.png)
 
 The document metaphor might suggest to users that they not only can create and save files, they can also delete them, they can copy them, and they can send or share them with other people.
 
