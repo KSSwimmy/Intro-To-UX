@@ -52,7 +52,7 @@ UX
 
 **Understand how people work**
 - What can people perceive? 
-    - How do people extract info from visual stimuil? 
+    - How do people extract info from visual stimuli? 
 - How do people do things? 
     - How do people decide how to act in the world and how do they process information about the results of their actions? 
 - How does emotion pay a role? 

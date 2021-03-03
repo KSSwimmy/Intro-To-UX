@@ -22,10 +22,10 @@ An "inspection" method
 - Create prioritized list of problem to fix
 
 **Assessing Severity** 
-1 = cosmetic problem: no real usability impact 
-2 = minor usability problem; fix if there is time 
-3 = major usability problem; important to  fix 
-4 = usability catastrophe; imperative to fix
+1. = cosmetic problem: no real usability impact 
+2. = minor usability problem; fix if there is time 
+3. = major usability problem; important to  fix 
+4. = usability catastrophe; imperative to fix
 
 Above is a rating scale that's often used in heuristic evaluation that's just a four-point rating scale, ranging from one, which represents a cosmetic problem, no real usability impact, so something that's maybe just annoying, to four, which is a usability catastrophe, absolutely imperative to fix, because users will not be able to make successful use of the system if that problem isn't fixed.
 

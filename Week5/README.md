@@ -250,7 +250,7 @@ Help users recognize, diagnose, and recover from errors
 - Error messages should be expressed in plain language (no coder language), precisely indicate the problem, and constructively suggest a solution
 
 Why? 
-#9 is a special case of #1,#2,#3, and #5
+**9 is a special case of #1,#2,#3, and #5**
 1. #1 Give Feedback 
 2. #2 Speak the user' language
 3. #3 Allow users to undo and escape from mistakes
