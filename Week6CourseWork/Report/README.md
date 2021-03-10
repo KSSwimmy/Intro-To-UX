@@ -2,7 +2,7 @@ User Experience Research Report:
 Heuristic Evaluation
 
 Created By: Kimberly Swinton
-Word count: 
+Word count: 1879
 
 
 
@@ -10,19 +10,21 @@ Coursera’s Discussion Board
 
 
 
+
+
 Executive Summary
 
-This report will document my heuristics evaluation of Coursera’s User Experience Research and Design’s course module, Introduction to User Experience Principles and Processes. It will focus on the heuristics evaluation for Coursera’s Discussion Board’s User Interface. The Heuristics Evaluation (Nielsen and Molich, 1990; Nielsen 1994) is a usability engineering method for finding the usability problems in a user interface design so that they can be attended to as part of an iterative design process. Heuristic evaluation involves having a small set of evaluators examine the interface and judge its compliance with recognized usability principles (the "heuristics"). 
+This report will document my heuristics evaluation of Coursera’s User Experience Research and Design’s course, Introduction to User Experience Principles and Processes. It will focus on the heuristics evaluation for Coursera’s Discussion Board’s User Interface. The Heuristics Evaluation (Nielsen and Molich, 1990; Nielsen 1994) is a usability engineering method for finding the usability problems in a user interface design so that they can be attended to as part of an iterative design process. Heuristic evaluation involves having a small set of evaluators examine the interface and judge its compliance with recognized usability principles (the "heuristics"). 
 
 
 
 Findings and Recommendations 
 
-Finding 1. When the cancel button is pressed in the prompt, the prompt changes to a more detailed description. However the prompt doesn't give a clear message to the user whether or not they're sure about canceling.
-Recommendation: Give a clearer more detailed error prevention message when the cancel button is clicked. 
+Finding 1. When the cancel button is clicked in the prompt, the prompt changes to a more detailed description. However the prompt doesn't give a clear message to the user whether or not they're sure about canceling.
+Recommendation: Give a clearer, more detailed error prevention message when the cancel button is clicked. 
 
 Finding 2. Doesn't have an option for saving as a draft nor a warning notification before pressing the Cancel button and clicking out of the model for creating a new post.
-Recommendation: Create an error prevention for clicking out of the model and for when a user clicks the cancel button.  
+Recommendation: Create an error prevention message for clicking out of the model and for when a user clicks the cancel button.  
 
 Finding 3. This is located in the Discussion Forum's main/home page. Week 3 is featured as the forum to go to in the header, but it is unclear why.
 Recommendation: If there is a featured forum, make it clear that it is a featured forum and give an explanation why. 
@@ -86,7 +88,6 @@ Summary Results
 Through my own heuristic evaluation, I was able to find five heuristic violations on my own. I’m sure there were more violations that I could’ve spotted, however it is impossible for one person to spot every single violation on their own. Usually heuristic evaluations are done as a team because of that fact. With that being said, the violations that I encountered are as follows: #2: Match Between System and Real World (Uses normal words and concepts familiar with the user.), #3: - User Control and Freedom (Having the control to undo a mistake or having an emergency exit), #5: Error Prevention (Error messages for users that prevents mistakes) #9: Error Recovery(Help users recover and diagnose from errors by providing clear messages). 
 
 Key Findings
-
 Finding 1: There isn’t a clear warning message about canceling when the cancel button is clicked on 
 Severity: 3
 Heuristic Violated: #2: Match Between System and Real World, #3: - User Control and Freedom, #5: Error Prevention, #9: Error Recovery
@@ -96,12 +97,10 @@ In the add a link feature, when the cancel button is pressed in the prompt, the 
 
 Fig: Cancel warning message isn’t clear 
 
-Recommendation: Give a clearer more detailed error prevention message when the cancel button is clicked. 
-
 
 Fig: Click discard and you'll get a prompt with the option to save as draft. From Xfinity’s discussion board.
 
-Recommendation: Create an error prevention for clicking out of the model and for when a user clicks the cancel button.  
+Recommendation: Give a clearer more detailed error prevention message when the cancel button is clicked. Create an error prevention for clicking out of the model and for when a user clicks the cancel button.  
 
 Finding 2: There is no warning to the user when clicking out to the modal for the create new thread feature.
 Severity: 3
@@ -147,6 +146,7 @@ Recommendation: Have a more detailed explanation for the subscribe button and pl
 
 
 
+
 Finding 5: No character count in the title and body textboxes. 
 Severity: 2
 Heuristic Violated: #1: Visibility of System Statuses and #5 Error Prevention
@@ -159,4 +159,22 @@ Fig: Coursera’s discussion board’s Create a new thread modal
 Recommendation: Providing a visual character counter would be ideal for the user as shown in the image below. 
 
 
-Fig: 
+Fig: Image is from designsystem.digital.gov showing how to display character count
+
+
+Conclusion
+
+The heuristic evaluation of the Coursera’s discussion board site has revealed that there were some issues in the design that are important to be fixed to enhance the user’s experience. Some of the issues that violated heuristics were issues that had been determined in previous evaluations of the site. Of the issues of primary importance that we determined, the following changes should be made for the next versions of the courses:
+ Give a clearer, more detailed error prevention message when the cancel button is clicked. Create an error prevention for clicking out of the model and for when a user clicks the cancel button.  
+Creating a warning prompt if and when a user clicks outside of the modal.
+Have a more detailed explanation for the user as to why the suggested forum is there in the header. 
+Have a more detailed explanation for the subscribe button and place the button underneath “Week 6” Title. 
+Providing a visual character counter would be ideal for the user as shown in the image below. 
+
+Implementing these changes should significantly enhance the learning experience of the user.
+
+
+References 
+Nielsen, J. (1994). Heuristic Evaluation. In J. Nielsen. & R. L. Mack (Eds.) Usability
+Inspection Methods. New York, NY: John Wiley & Sons
+
